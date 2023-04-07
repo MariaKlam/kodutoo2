@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/kodutoo2/static/css/main.5cd9dd87.css",
+    "main.js": "/kodutoo2/static/js/main.09b25b39.js",
+    "static/js/787.959c4e04.chunk.js": "/kodutoo2/static/js/787.959c4e04.chunk.js",
+    "static/media/pariis.jpg": "/kodutoo2/static/media/pariis.e017c3cbcd46c7439537.jpg",
+    "static/media/newyork.jpg": "/kodutoo2/static/media/newyork.3fdd8b31141d09e1654c.jpg",
+    "static/media/london.jpg": "/kodutoo2/static/media/london.246a2bfaf0b7c647daaf.jpg",
+    "index.html": "/kodutoo2/index.html",
+    "main.5cd9dd87.css.map": "/kodutoo2/static/css/main.5cd9dd87.css.map",
+    "main.09b25b39.js.map": "/kodutoo2/static/js/main.09b25b39.js.map",
+    "787.959c4e04.chunk.js.map": "/kodutoo2/static/js/787.959c4e04.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5cd9dd87.css",
+    "static/js/main.09b25b39.js"
+  ]
+}
